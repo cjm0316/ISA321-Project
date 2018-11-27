@@ -1,0 +1,301 @@
+Country,Points,Price,Province,Title,Variety,Type,Red,White,CommonWines,NonCommonWine,NorthAmerica,SouthAmerica,Europe,Other,Vintage
+Argentina,91,65,Mendoza Province,Altocedro 2012 Gran Reserva Malbec (La Consulta),Malbec,Red,1,0,0,1,0,1,0,0,2012
+Argentina,85,15,Mendoza Province,Alberti 154 2011 Malbec (Mendoza),Malbec,Red,1,0,0,1,0,1,0,0,154
+Argentina,90,21,Mendoza Province,Finca Decero 2013 Remolinos Vineyard Agrelo Cabernet Sauvignon (Mendoza),Cabernet Sauvignon,Red,1,0,1,0,0,1,0,0,2013
+Argentina,85,9,Other,San Huberto 2010 Cabernet Sauvignon-Syrah (Argentina),Cabernet Sauvignon-Syrah,Red,1,0,0,1,0,1,0,0,2010
+Argentina,84,25,Mendoza Province,Black Box 2012 Malbec (Mendoza),Malbec,Red,1,0,0,1,0,1,0,0,2012
+Australia,94,105,South Australia,Kilikanoon 2006 R Shiraz (Barossa Valley),Shiraz,Red,1,0,0,1,0,0,0,1,2006
+Australia,89,108,South Australia,Elderton 2010 Ashmead Single Vineyard Cabernet Sauvignon (Barossa),Cabernet Sauvignon,Red,1,0,1,0,0,0,0,1,2010
+Australia,87,10,South Australia,Rocland Estate 2005 Ass Kisser Fine Red Wine Red (South Australia),Rh??ne-style Red Blend,Red,1,0,0,1,0,0,0,1,2005
+Australia,85,13,Australia Other,Woop Woop 2009 Chardonnay (South Eastern Australia),Chardonnay,White,0,1,1,0,0,0,0,1,2009
+Australia,86,15,South Australia,Killibinbin 2013 Seduction Cabernet Sauvignon (Langhorne Creek),Cabernet Sauvignon,Red,1,0,1,0,0,0,0,1,2013
+Austria,92,24,Kamptal,Schloss Gobelsburg 2015 Z??bing Riesling (Kamptal),Riesling,White,0,1,1,0,0,0,1,0,2015
+Austria,89,33,Kamptal,Loimer 2005 Terrassen Pinot Noir (Kamptal),Pinot Noir,Red,1,0,1,0,0,0,1,0,2005
+Austria,87,15,S?ådoststeiermark,Winkler-Hermaden 2007 Steierische Klassik Weissburgunder (S?ådoststeiermark),Weissburgunder,White,0,1,0,1,0,0,1,0,2007
+Austria,92,36,Weinland ??sterreich,Weszeli 2016 Besse Fleur Riesling (Weinland ??sterreich),Riesling,White,0,1,1,0,0,0,1,0,2016
+Austria,87,10,Nieder??sterreich,Forstreiter 2015 Grooner Gr?åner Veltliner (Nieder??sterreich),Gr?åner Veltliner,White,0,1,0,1,0,0,1,0,2015
+Austria,88,28,Kremstal,Stadt Krems 2012 Gr?åner Veltliner (Kremstal),Gr?åner Veltliner,White,0,1,0,1,0,0,1,0,2012
+Bulgaria,87,19,Thracian Valley,Ivo Varbanov 2013 Clare de Lune Chardonnay (Thracian Valley),Chardonnay,White,0,1,1,0,0,0,1,0,2013
+Canada,93,25,Ontario,Cave Spring 2013 CSV Estate Bottled Riesling (Beamsville Bench),Riesling,White,0,1,1,0,1,0,0,0,2013
+Canada,90,26,Ontario,Cave Spring 2014 CSV Estate Bottled Riesling (Beamsville Bench),Riesling,White,0,1,1,0,1,0,0,0,2014
+Chile,92,60,CuricÍ_ Valley,Miguel Torres 2012 Manso de Velasco Cabernet Sauvignon (CuricÍ_ Valley),Cabernet Sauvignon,Red,1,0,1,0,0,1,0,0,2012
+Chile,84,9,Maipo Valley,Undurraga 2002 Gew?årztraminer (Maipo Valley),Gew?årztraminer,White,0,1,0,1,0,1,0,0,2002
+Chile,84,12,Maipo Valley,Tres Palacios 2011 Reserve Cabernet Sauvignon (Maipo Valley),Cabernet Sauvignon,Red,1,0,1,0,0,1,0,0,2011
+Chile,90,20,Maipo Valley,Pargua 2007 Anka Pargua II Red (Maipo Valley),Red Blend,Red,1,0,1,0,0,1,0,0,2007
+Chile,87,12,Maule Valley,San Pedro 2007 Castillo de Molina Reserva Shiraz (Maule Valley),Shiraz,Red,1,0,0,1,0,1,0,0,2007
+Chile,87,28,Maipo Valley,Vi?_a el Principal 2009 Memorias Cabernet Sauvignon-Carmen??re (Maipo Valley),Cabernet Sauvignon-Carmen??re,Red,1,0,0,1,0,1,0,0,2009
+Chile,87,9,Maipo Valley,Santa Alicia 2006 Reserve Cabernet Sauvignon (Maipo Valley),Cabernet Sauvignon,Red,1,0,1,0,0,1,0,0,2006
+Chile,86,15,Maipo Valley,Santa Alicia 2011 Gran Reserva de Los Andes Estate Bottled Cabernet Sauvignon (Maipo Valley),Cabernet Sauvignon,Red,1,0,1,0,0,1,0,0,2011
+Chile,82,20,Limar?? Valley,Tamaya 2007 Winemaker's Selection Single Vineyard Sauvignon Blanc (Limar?? Valley),Sauvignon Blanc,White,0,1,1,0,0,1,0,0,2007
+Chile,83,8,Central Valley,Santa Rita 2009 120 Sauvignon Blanc (Central Valley),Sauvignon Blanc,White,0,1,1,0,0,1,0,0,2009
+Chile,87,15,Casablanca Valley,Emiliana 2010 Novas Limited Selection Chardonnay (Casablanca Valley),Chardonnay,White,0,1,1,0,0,1,0,0,2010
+Chile,84,12,Maule Valley,Balduzzi 2014 Reserva Cabernet Sauvignon (Maule Valley),Cabernet Sauvignon,Red,1,0,1,0,0,1,0,0,2014
+Chile,85,12,Maipo Valley,Santa Alicia 2014 Reserva Espiritu de Los Andes Estate Bottled Malbec (Maipo Valley),Malbec,Red,1,0,0,1,0,1,0,0,2014
+Chile,85,14,Colchagua Valley,Calcu 2010 Reserva Carmen??re (Colchagua Valley),Carmen??re,Red,1,0,0,1,0,1,0,0,2010
+Chile,87,11,Maule Valley,Balduzzi 2016 Reserva Sauvignon Blanc (Maule Valley),Sauvignon Blanc,White,0,1,1,0,0,1,0,0,2016
+France,85,13,Bordeaux,Ch?_teau Vrai Caillou 2015  Entre-Deux-Mers,Bordeaux-style White Blend,White,0,1,0,1,0,0,1,0,2015
+France,85,28,Loire Valley,Fran??ois Millet 2012 Empreinte Ros?? (Sancerre),Ros??,Red,1,0,0,1,0,0,1,0,2012
+France,85,20,Alsace,Gustave Lorentz 2011 Le Ros?? (Alsace),Ros??,Red,1,0,0,1,0,0,1,0,2011
+France,83,10,France Other,Romantic 2015 Authentic & Chic Merlot (Vin de France),Merlot,Red,1,0,0,1,0,0,1,0,2015
+France,87,20,Burgundy,Domaine C??line et Fr??d??ric Gueguen 2014 Curiosit?? de Bourgogne  (Saint-Bris),Sauvignon Blanc,White,0,1,1,0,0,0,1,0,2014
+France,85,20,Loire Valley,Domaine de l'Ermitage 2014 Cuv??e Ros?? (Menetou-Salon),Ros??,Red,1,0,0,1,0,0,1,0,2014
+France,88,24,Bordeaux,Ch?_teau Haut Bergeron 2003  Sauternes,Bordeaux-style White Blend,White,0,1,0,1,0,0,1,0,2003
+France,88,15,Bordeaux,Ch?_teau de Paillet-Quancard 2010  Cadillac C??tes de Bordeaux,Bordeaux-style Red Blend,Red,1,0,0,1,0,0,1,0,2010
+France,88,30,Burgundy,Domaine Christian Moreau P??re et Fils 2015  Chablis,Chardonnay,White,0,1,1,0,0,0,1,0,2015
+France,90,25,Beaujolais,Domaine Chaintreuil 2015 La Madone  (Fleurie),Gamay,Red,1,0,0,1,0,0,1,0,2015
+France,85,18,Burgundy,Antonin Rodet 2011 A. Rodet  (Bourgogne),Chardonnay,White,0,1,1,0,0,0,1,0,2011
+France,92,55,Rh??ne Valley,Domaine de Cristia 2006 Red (Ch?_teauneuf-du-Pape),Rh??ne-style Red Blend,Red,1,0,0,1,0,0,1,0,2006
+France,90,25,Loire Valley,Domaine Philippe Raimbault 2015 Apud Sariacum  (Sancerre),Sauvignon Blanc,White,0,1,1,0,0,0,1,0,2015
+France,92,34,Alsace,Jean-Marc Bernhard 2013 Wineck-Schlossberg Grand Cru Riesling (Alsace),Riesling,White,0,1,1,0,0,0,1,0,2013
+France,92,95,Bordeaux,Ch?_teau Duhart-Milon 2011  Pauillac,Bordeaux-style Red Blend,Red,1,0,0,1,0,0,1,0,2011
+France,87,27,Loire Valley,Fournier P??re et Fils 2010 Les Deux Cailloux  (Pouilly-Fum??),Sauvignon Blanc,White,0,1,1,0,0,0,1,0,2010
+France,94,78,Alsace,Domaine Riefl??-Landmann 2012 Seppi Landmann Zinnkoepfl?? Grand Cru Vendanges Tardives Pinot Gris (Alsace),Pinot Gris,White,0,1,1,0,0,0,1,0,2012
+France,94,41,Burgundy,Ch?_teau de Fuiss?? 2014 T?_te de Cru  (Pouilly-Fuiss??),Chardonnay,White,0,1,1,0,0,0,1,0,2014
+France,90,15,Alsace,Joseph Cattin 2014 Riesling (Alsace),Riesling,White,0,1,1,0,0,0,1,0,2014
+France,89,78,Burgundy,Domaine A. Machard de Gramont 2010 Les Damodes Premier Cru  (Nuits-St.-Georges),Pinot Noir,Red,1,0,1,0,0,0,1,0,2010
+France,89,22,Southwest France,Cave du Marmandais 2011 Confidential Red (C??tes du Marmandais),Red Blend,Red,1,0,1,0,0,0,1,0,2011
+France,89,13,Southwest France,Lionel Osmin & Cie 2015 Merlot-Cabernet Sauvignon (Buzet),Merlot-Cabernet Sauvignon,Red,1,0,0,1,0,0,1,0,2015
+France,87,20,Bordeaux,Ch?_teau Brethous 2015 Cuv??e Prestige  (Cadillac C??tes de Bordeaux),Bordeaux-style Red Blend,Red,1,0,0,1,0,0,1,0,2015
+France,90,27,Alsace,Domaine Ostertag 2011 Vignoble d'E Riesling (Alsace),Riesling,White,0,1,1,0,0,0,1,0,2011
+France,95,204,Champagne,Taittinger 1995 Comtes de Champagne Brut Ros??  (Champagne),Champagne Blend,White,0,1,0,1,0,0,1,0,1995
+France,87,22,Bordeaux,Vignobles Arno 2014 Ch?_teau Godard Bellevue  (Francs C??tes de Bordeaux),Bordeaux-style Red Blend,Red,1,0,0,1,0,0,1,0,2014
+France,86,18,Southwest France,Domaine Rotier 2013 Esquisse Red (Gaillac),Red Blend,Red,1,0,1,0,0,0,1,0,2013
+France,88,27,Burgundy,La Chablisienne 2006 Les V??n??rables Vieilles Vignes  (Chablis),Chardonnay,White,0,1,1,0,0,0,1,0,2006
+France,92,40,Alsace,Jean-Marc Bernhard 2015 Mambourg Grand Cru Gewurztraminer (Alsace),Gew?årztraminer,White,0,1,0,1,0,0,1,0,2015
+France,85,11,Provence,Les Vins Br??ban 2016 Les Hauts Plateaux Ros??,Ros??,Red,1,0,0,1,0,0,1,0,2016
+France,87,25,Alsace,Domaine Bernhard & Reibel 2014 Hahnenberg Pinot Gris (Alsace),Pinot Gris,White,0,1,1,0,0,0,1,0,2014
+France,89,16,Loire Valley,Ch?_teau de Fesles 2009 Chenin Blanc (Anjou),Chenin Blanc,White,0,1,0,1,0,0,1,0,2009
+France,88,18,Bordeaux,Ch?_teau Cambon la Pelouse 2011  Haut-M??doc,Bordeaux-style Red Blend,Red,1,0,0,1,0,0,1,0,2011
+France,89,10,France Other,Marrenon 2014 Classique Merlot Ros?? (Mediterran??e),Ros??,Red,1,0,0,1,0,0,1,0,2014
+France,89,15,Alsace,W. Gisselbrecht 2015 Tradition Pinot Blanc (Alsace),Pinot Blanc,White,0,1,0,1,0,0,1,0,2015
+France,93,35,Bordeaux,Ch?_teau Picque Caillou 2015  Pessac-L??ognan,Bordeaux-style White Blend,White,0,1,0,1,0,0,1,0,2015
+France,92,65,Rh??ne Valley,S??lection Laurence F??raud 2012 Red (Ch?_teauneuf-du-Pape),Rh??ne-style Red Blend,Red,1,0,0,1,0,0,1,0,2012
+France,88,19,Loire Valley,Lacheteau 2016 Ch?_teau de Montgu??ret  (Ros?? d'Anjou),Ros??,Red,1,0,0,1,0,0,1,0,2016
+France,91,16,Rh??ne Valley,Vignerons de Tavel 2012 Les Hauts d'Acantalys Red (Lirac),Rh??ne-style Red Blend,Red,1,0,0,1,0,0,1,0,2012
+France,90,14,Loire Valley,Domaine des Cognettes 2015 S??lection des Cognettes Sur Lie  (Muscadet S??vre et Maine),Melon,White,0,1,0,1,0,0,1,0,2015
+France,88,45,Bordeaux,Ch?_teau de Candale 2007  Saint-??milion,Bordeaux-style Red Blend,Red,1,0,0,1,0,0,1,0,2007
+France,86,14,Bordeaux,Ch?_teau Tuilerie Pag??s 2011  Entre-Deux-Mers,Bordeaux-style White Blend,White,0,1,0,1,0,0,1,0,2011
+France,85,20,Bordeaux,Les Fontenilles 2015 Red (Bordeaux Clairet),Bordeaux-style Red Blend,Red,1,0,0,1,0,0,1,0,2015
+France,88,25,Loire Valley,Domaine Beno??t & Mathieu Fleuriet 2015 Les Demoiselles  (Menetou-Salon),Sauvignon Blanc,White,0,1,1,0,0,0,1,0,2015
+France,88,23,Provence,La Bastide Blanche 2012 Ros?? (Bandol),Ros??,Red,1,0,0,1,0,0,1,0,2012
+France,86,12,Provence,Sables d'Azur 2015 Ros?? (C??tes de Provence),Ros??,Red,1,0,0,1,0,0,1,0,2015
+France,85,13,Provence,Ch?_teau Deffends 2011 Cuv??e Premi??re Ros?? (C??tes de Provence),Ros??,Red,1,0,0,1,0,0,1,0,2011
+France,84,15,Loire Valley,Alliance Loire 2014 Domaine de la Lysardi??re Ros?? (Chinon),Ros??,Red,1,0,0,1,0,0,1,0,2014
+France,88,16,Bordeaux,Domaine de Chevalier 2015 Ros?? de Chevalier Ros?? (Bordeaux Ros??),Ros??,Red,1,0,0,1,0,0,1,0,2015
+Germany,91,19,Rheinhessen,Th??rle 2013 Trocken Riesling (Rheinhessen),Riesling,White,0,1,1,0,0,0,1,0,2013
+Germany,93,35,Mosel,S.A. Pr?åm 2013 Wehlener Sonnenuhr Sp??tlese Grosse Lage Riesling (Mosel),Riesling,White,0,1,1,0,0,0,1,0,2013
+Germany,90,28,Mosel,Dr. H. Thanisch (Erben M?åller-Burggraef) 2011 Sp??tlese Trocken Riesling (Mosel),Riesling,White,0,1,1,0,0,0,1,0,2011
+Germany,86,13,Rheinhessen,Dr. Heyden 2015 Alte Reben Trocken Silvaner (Rheinhessen),Silvaner,White,0,1,0,1,0,0,1,0,2015
+Germany,87,43,Pfalz,Gaul 2012 Sausenheimer H??llenpfad Trocken St. Laurent (Pfalz),St. Laurent,Red,1,0,0,1,0,0,1,0,2012
+Greece,85,14,Santorini,Greek Wine Cellars 2010 Assyrtico (Santorini),Assyrtico,White,0,1,0,1,0,0,1,0,2010
+Italy,88,44,Veneto,Villa Canestrari 2011 Alesium  (Recioto di Soave),White Blend,White,0,1,1,0,0,0,1,0,2011
+Italy,93,29,Sicily & Sardinia,Curto 2010 Fontanelle Nero d'Avola (Eloro),Nero d'Avola,Red,1,0,0,1,0,0,1,0,2010
+Italy,94,34,Southern Italy,Terredora Di Paolo 2009 Fatica Contadina  (Taurasi),Aglianico,Red,1,0,0,1,0,0,1,0,2009
+Italy,93,55,Piedmont,Revello Fratelli 2013 Gattera  (Barolo),Nebbiolo,Red,1,0,0,1,0,0,1,0,2013
+Italy,87,75,Tuscany,Argiano 2010 Solengo Red (Toscana),Red Blend,Red,1,0,1,0,0,0,1,0,2010
+Italy,91,60,Tuscany,Guado al Tasso 2013 Cont'Ugo  (Bolgheri),Red Blend,Red,1,0,1,0,0,0,1,0,2013
+Italy,89,48,Piedmont,Podere Ruggeri Corsini 2011 Bussia Corsini  (Barolo),Nebbiolo,Red,1,0,0,1,0,0,1,0,2011
+Italy,91,75,Piedmont,Beni di Batasiolo 2006 Vigneto Boscareto  (Barolo),Nebbiolo,Red,1,0,0,1,0,0,1,0,2006
+Italy,87,15,Northeastern Italy,Castelfeder 2013 Breitbacher Vernatsch Schiava (Alto Adige),Schiava,Red,1,0,0,1,0,0,1,0,2013
+Italy,87,29,Tuscany,Ormanni 2011 Borro del Diavolo Riserva  (Chianti Classico),Sangiovese,Red,1,0,0,1,0,0,1,0,2011
+Italy,87,36,Piedmont,Marchesi di Barolo 2013 Peiregal  (Barbera d'Alba),Barbera,Red,1,0,0,1,0,0,1,0,2013
+Italy,84,20,Northeastern Italy,Gaierhof 2012 Pinot Grigio (Trentino),Pinot Grigio,Red,1,0,0,1,0,0,1,0,2012
+Italy,95,38,Piedmont,La Spinona 2012 Bergera  (Barolo),Nebbiolo,Red,1,0,0,1,0,0,1,0,2012
+Italy,89,18,Sicily & Sardinia,Paolo Cal?È 2015 Jazz Red (Terre Siciliane),Red Blend,Red,1,0,1,0,0,0,1,0,2015
+Italy,90,35,Central Italy,Di Filippo 2009 Etnico  (Sagrantino di Montefalco),Sagrantino,Red,1,0,0,1,0,0,1,0,2009
+Italy,89,65,Tuscany,Fattoria di Magliano 2012 Perenzo  (Maremma Toscana),Syrah,Red,1,0,1,0,0,0,1,0,2012
+Italy,87,15,Tuscany,Bartali 2013 Ducceto  (Chianti),Red Blend,Red,1,0,1,0,0,0,1,0,2013
+Italy,91,30,Tuscany,Marchesi de' Frescobaldi 2013 Nipozzano Vecchie Viti Riserva  (Chianti Rufina),Red Blend,Red,1,0,1,0,0,0,1,0,2013
+Italy,88,50,Veneto,Albino Armani 2010  Amarone della Valpolicella,Red Blend,Red,1,0,1,0,0,0,1,0,2010
+Italy,89,25,Piedmont,Malvir?¯ 2014 Vigna Trinit?¯  (Roero),Arneis,White,0,1,0,1,0,0,1,0,2014
+Italy,87,13,Central Italy,Morini 2015 Sette Note Secco Albana (Romagna),Albana,White,0,1,0,1,0,0,1,0,2015
+Italy,88,75,Tuscany,Guicciardini Strozzi 2012 Vignar?? Red (Toscana),Red Blend,Red,1,0,1,0,0,0,1,0,2012
+Italy,88,28,Tuscany,Lecci e Brocchi 2013  Chianti Classico,Red Blend,Red,1,0,1,0,0,0,1,0,2013
+Italy,91,90,Tuscany,Tenuta Sette Ponti 1999 Oreno Sangiovese (Toscana),Sangiovese,Red,1,0,0,1,0,0,1,0,1999
+Italy,90,30,Tuscany,Vignavecchia 2010 Vigneto Odoardo Beccari Riserva  (Chianti Classico),Red Blend,Red,1,0,1,0,0,0,1,0,2010
+Italy,85,24,Northeastern Italy,Ascevi Luwa 2015 Grappoli Pinot Grigio (Collio),Pinot Grigio,Red,1,0,0,1,0,0,1,0,2015
+Italy,87,16,Veneto,La Tordera 2016 Saom?È Brut  (Prosecco Treviso),Glera,White,0,1,0,1,0,0,1,0,2016
+Italy,91,30,Northeastern Italy,Niedermayr Josef 2012 Naun Sauvignon (Alto Adige),Sauvignon,White,0,1,0,1,0,0,1,0,2012
+Italy,87,20,Southern Italy,I Capitani 2013 Gaudium  (Fiano di Avellino),Fiano,White,0,1,0,1,0,0,1,0,2013
+Italy,89,15,Sicily & Sardinia,Argiolas 2014 Costamolino  (Vermentino di Sardegna),Vermentino,White,0,1,0,1,0,0,1,0,2014
+Italy,87,15,Tuscany,Bonacchi 2009 Casalino Riserva  (Chianti Classico),Sangiovese,Red,1,0,0,1,0,0,1,0,2009
+Italy,87,26,Tuscany,Fossacolle 2012  Rosso di Montalcino,Sangiovese,Red,1,0,0,1,0,0,1,0,2012
+Italy,89,54,Veneto,San Rustico 2008  Amarone della Valpolicella,Red Blend,Red,1,0,1,0,0,0,1,0,2008
+Italy,89,23,Lombardy,Olivini 2015 Demesse Vecchie  (Lugana),Turbiana,White,0,1,0,1,0,0,1,0,2015
+Italy,89,25,Northeastern Italy,Primosic 2014 Gmajne Sauvignon (Collio),Sauvignon,White,0,1,0,1,0,0,1,0,2014
+Italy,89,26,Tuscany,Felsina 2011 Berardenga  (Chianti Classico),Sangiovese,Red,1,0,0,1,0,0,1,0,2011
+Italy,84,60,Piedmont,Mauro Molino 2009 Vigna Gancia  (Barolo),Nebbiolo,Red,1,0,0,1,0,0,1,0,2009
+Italy,91,60,Piedmont,Cascina delle Rose 2013 Rio Sordo  (Barbaresco),Nebbiolo,Red,1,0,0,1,0,0,1,0,2013
+Italy,90,20,Northeastern Italy,Abbazia di Novacella 2013 Riesling (Alto Adige Valle Isarco),Riesling,White,0,1,1,0,0,0,1,0,2013
+Italy,84,33,Piedmont,La Bioca 2013  Barbaresco,Nebbiolo,Red,1,0,0,1,0,0,1,0,2013
+Italy,91,45,Northeastern Italy,Terlan 2014 Monticol Riserva Lagrein (Alto Adige),Lagrein,Red,1,0,0,1,0,0,1,0,2014
+Italy,87,20,Piedmont,Daniele Reale 2013 La Fi??  (Barbera d'Asti Superiore),Barbera,Red,1,0,0,1,0,0,1,0,2013
+Italy,80,10,Central Italy,Tenimenti Montagnana 2014 Rubentino  (Montepulciano d'Abruzzo),Montepulciano,Red,1,0,0,1,0,0,1,0,2014
+Italy,93,45,Tuscany,Il Conventino 2012 Riserva  (Vino Nobile di Montepulciano),Red Blend,Red,1,0,1,0,0,0,1,0,2012
+Italy,87,25,Tuscany,Castello di Monsanto 2010 Riserva  (Chianti Classico),Red Blend,Red,1,0,1,0,0,0,1,0,2010
+New Zealand,94,55,Martinborough,Ata Rangi 2013 Pinot Noir (Martinborough),Pinot Noir,Red,1,0,1,0,0,0,0,1,2013
+New Zealand,85,16,Marlborough,Brancott 2014 Flight Song Pinot Grigio (Marlborough),Pinot Grigio,Red,1,0,0,1,0,0,0,1,2014
+New Zealand,87,11,Gisborne,Glazebrook 2000 Chardonnay (Gisborne),Chardonnay,White,0,1,1,0,0,0,0,1,2000
+New Zealand,89,25,Marlborough,Tinpot Hut 2014 Pinot Noir (Marlborough),Pinot Noir,Red,1,0,1,0,0,0,0,1,2014
+New Zealand,90,17,Nelson,Seifried 2011 Riesling (Nelson),Riesling,White,0,1,1,0,0,0,0,1,2011
+New Zealand,86,28,Nelson,Neudorf 2008 Tom's Block Pinot Noir (Nelson),Pinot Noir,Red,1,0,1,0,0,0,0,1,2008
+Portugal,90,18,Alentejano,Wines & Winemakers 2012 Abreu Callado Reserva?¯ Red (Alentejano),Portuguese Red,Red,1,0,0,1,0,0,1,0,2012
+Portugal,84,12,Pen??nsula de Set?_bal,Wines & Winemakers 2014 Monta da Ba??a Ros?? (Pen??nsula de Set?_bal),Ros??,Red,1,0,0,1,0,0,1,0,2014
+Portugal,87,10,Douro,Castello d'Alba 2009 Red (Douro),Portuguese Red,Red,1,0,0,1,0,0,1,0,2009
+Portugal,85,34,Douro,Ramos-Pinto 1997 Duas Quintas Reserva Touriga Nacional (Douro),Touriga Nacional,Red,1,0,0,1,0,0,1,0,1997
+Portugal,85,8,Vinho Verde,Enoport 2016 Fais?ìo White (Vinho Verde),Portuguese White,White,0,1,0,1,0,0,1,0,2016
+Portugal,89,18,Douro,Castello d'Alba 2006 Vinhas Velhas White (Douro),Portuguese White,White,0,1,0,1,0,0,1,0,2006
+Portugal,88,17,Alentejo,Roquevale 2015 Branco de Curtimenta White (Alentejo),Portuguese White,White,0,1,0,1,0,0,1,0,2015
+Portugal,85,12,Douro,Quevedo 2014 Oscar's Branco White (Douro),Portuguese White,White,0,1,0,1,0,0,1,0,2014
+Portugal,88,18,Tejo,Casa Cadaval 2015 Vinha Padre Pedro Reserva Viognier-Arinto White (Tejo),Portuguese White,White,0,1,0,1,0,0,1,0,2015
+Portugal,85,10,Alentejano,Herdade do Espor?ìo 2010 Monte Velho Branco White (Alentejano),Portuguese White,White,0,1,0,1,0,0,1,0,2010
+Portugal,90,22,Alentejano,Casa Agricola Alexandre Relvas 2014 Segredos de S?ìo Miguel Private Selection Red (Alentejano),Portuguese Red,Red,1,0,0,1,0,0,1,0,2014
+Portugal,95,58,Port,Taylor Fladgate 2015 Quinta da Vargellas Vintage  (Port),Port,Red,1,0,0,1,0,0,1,0,2015
+South Africa,84,14,Stellenbosch,Morgenhof 2010 Fantail Pinotage Ros?? (Stellenbosch),Ros??,Red,1,0,0,1,0,0,0,1,2010
+South Africa,88,19,Wellington,Nabygelegen 2010 Lady Anna White (Wellington),White Blend,White,0,1,1,0,0,0,0,1,2010
+South Africa,86,17,Elgin,M'Hudi 2006 Sauvignon Blanc (Elgin),Sauvignon Blanc,White,0,1,1,0,0,0,0,1,2006
+South Africa,87,17,Coastal Region,KWV 2006 Cathedral Cellar Cabernet Sauvignon (Coastal Region),Cabernet Sauvignon,Red,1,0,1,0,0,0,0,1,2006
+Spain,88,14,Northern Spain,Inurrieta 2010 Norte Merlot-Cabernet Sauvignon (Navarra),Merlot-Cabernet Sauvignon,Red,1,0,0,1,0,0,1,0,2010
+Spain,86,10,Northern Spain,Coto de Hayas 2005 Tempranillo-Cabernet Sauvignon (Campo de Borja),Tempranillo-Cabernet Sauvignon,Red,1,0,0,1,0,0,1,0,2005
+Spain,85,10,Central Spain,Dominio de Punctum 2016 Lobetia Tempranillo (Vino de la Tierra de Castilla),Tempranillo,Red,1,0,0,1,0,0,1,0,2016
+Spain,88,20,Northern Spain,Oliver Conti 2009 Ara Red (Empord?¯),Red Blend,Red,1,0,1,0,0,0,1,0,2009
+Spain,86,9,Levante,Bocopa 2014 Conde de Alicante Selecci??n Tempranillo (Alicante),Tempranillo,Red,1,0,0,1,0,0,1,0,2014
+Spain,87,8,Northern Spain,La Mano 2012 Roble Menc??a (Bierzo),Menc??a,Red,1,0,0,1,0,0,1,0,2012
+Spain,89,29,Northern Spain,Vallobera 2009 Finca Vallobera  (Rioja),Tempranillo,Red,1,0,0,1,0,0,1,0,2009
+Spain,83,15,Northern Spain,Coto de Hayas 2015 Centenaria Garnacha (Campo de Borja),Garnacha,Red,1,0,0,1,0,0,1,0,2015
+Spain,83,13,Northern Spain,Bodegas Monte La Reina 2005 Torcanto Roble  (Toro),Tinta de Toro,Red,1,0,0,1,0,0,1,0,2005
+Spain,92,30,Northern Spain,Marqu??s de la Concordia 2011 Hacienda Zorita Natural Reserve Syrah (Vino de la Tierra de Castilla y Le??n),Syrah,Red,1,0,1,0,0,0,1,0,2011
+Spain,82,9,Northern Spain,Borsao 2015 Ros?? (Campo de Borja),Ros??,Red,1,0,0,1,0,0,1,0,2015
+Spain,86,14,Northern Spain,Vi?_a Mayor 2013 Vendimia Seleccionada  (Toro),Tempranillo,Red,1,0,0,1,0,0,1,0,2013
+Spain,88,13,Central Spain,Finca La Estacada 2014 12 Meses Barrica Vi?_edos Propios Crianza Tempranillo (Ucl??s),Tempranillo,Red,1,0,0,1,0,0,1,0,2014
+Spain,87,27,Northern Spain,Matarromera 2008 Crianza  (Ribera del Duero),Tinto Fino,Red,1,0,0,1,0,0,1,0,2008
+Spain,88,25,Levante,Barahonda 2008 Heredad Candela Monastrell (Yecla),Monastrell,Red,1,0,0,1,0,0,1,0,2008
+Spain,91,115,Northern Spain,Protos 2009 Selecci??n Finca El Grajo Viejo  (Ribera del Duero),Tempranillo,Red,1,0,0,1,0,0,1,0,2009
+Spain,89,30,Northern Spain,Pagos del Rey 2011 Gran Bajoz  (Toro),Tinta de Toro,Red,1,0,0,1,0,0,1,0,2011
+Spain,91,39,Catalonia,Mestres 2007 Visol Gran Reserva Brut Nature Sparkling (Cava),Sparkling Blend,White,0,1,0,1,0,0,1,0,2007
+Spain,91,25,Northern Spain,Castillo Clavijo 2004 Gran Reserva  (Rioja),Tempranillo Blend,Red,1,0,0,1,0,0,1,0,2004
+Spain,87,100,Northern Spain,Abadia Retuerta 2013 Pago Valdebell??n Cabernet Sauvignon (Vino de la Tierra de Castilla y Le??n),Cabernet Sauvignon,Red,1,0,1,0,0,0,1,0,2013
+Spain,92,40,Northern Spain,Luis Alegre 2009 Parcela N.5  (Rioja),Tempranillo Blend,Red,1,0,0,1,0,0,1,0,2009
+Spain,90,45,Northern Spain,Bodegas Imperiales 2004 Abadia de San Quirce Reserva  (Ribera del Duero),Tempranillo,Red,1,0,0,1,0,0,1,0,2004
+Spain,94,96,Northern Spain,Muga 2005 Torre Muga  (Rioja),Tempranillo Blend,Red,1,0,0,1,0,0,1,0,2005
+Spain,84,27,Northern Spain,Bodegas y Vi?_edos Rauda 2005 Tinto Roa Crianza  (Ribera del Duero),Tempranillo,Red,1,0,0,1,0,0,1,0,2005
+Spain,80,20,Northern Spain,Beronia 2007 Elaboraci??n Especial  (Rioja),Tempranillo,Red,1,0,0,1,0,0,1,0,2007
+Spain,87,8,Levante,Volver 2010 Tarima Monastrell (Alicante),Monastrell,Red,1,0,0,1,0,0,1,0,2010
+Spain,88,37,Catalonia,Edet?¯ria 2012 Selecci?? Garnacha Blanca (Terra Alta),Garnacha Blanca,White,0,1,0,1,0,0,1,0,2012
+Spain,84,25,Northern Spain,Tandem 2004 Ars M?_cula Red (Navarra),Bordeaux-style Red Blend,Red,1,0,0,1,0,0,1,0,2004
+Spain,83,9,Northern Spain,Rioja Vega 2008  Rioja,Tempranillo Blend,Red,1,0,0,1,0,0,1,0,2008
+Spain,84,17,Levante,Ostras Pedrin 2016 Verdosilla (Valencia),Verdosilla,White,0,1,0,1,0,0,1,0,2016
+Turkey,90,27,Ankara,Vinkara 2013 Reserve Kalecik Karasi (Ankara),Kalecik Karasi,Red,1,0,0,1,0,0,1,0,2013
+US,89,18,California,Sobon Estate 2013 Cougar Hill Zinfandel (Amador County),Zinfandel,Red,1,0,1,0,1,0,0,0,2013
+US,84,15,Washington,WildHaven 2010 Reserve Merlot (Washington),Merlot,Red,1,0,0,1,1,0,0,0,2010
+US,95,85,California,La Jota Vineyard 2013 Merlot (Howell Mountain),Merlot,Red,1,0,0,1,1,0,0,0,2013
+US,87,22,California,Rodney Strong 2014 Chardonnay (Chalk Hill),Chardonnay,White,0,1,1,0,1,0,0,0,2014
+US,90,25,California,Borra 2011 Heritage Field Blend Red (Lodi),Red Blend,Red,1,0,1,0,1,0,0,0,2011
+US,86,20,California,Dalliance 2012 Red (Lake County),Red Blend,Red,1,0,1,0,1,0,0,0,2012
+US,91,45,Washington,Cadence 2006 Ciel du Cheval Red Wine Red (Red Mountain),Red Blend,Red,1,0,1,0,1,0,0,0,2006
+US,88,25,Texas,Brennan 2015 Cellar Select Viognier (Texas),Viognier,White,0,1,0,1,1,0,0,0,2015
+US,92,25,Washington,Baer 2013 Malbec (Columbia Valley (WA)),Malbec,Red,1,0,0,1,1,0,0,0,2013
+US,91,40,California,Margerum 2013 Purisima Mountain Vineyard Syrah (Ballard Canyon),Syrah,Red,1,0,1,0,1,0,0,0,2013
+US,89,12,Washington,Charles Smith 2014 Kung Fu Girl Riesling (Ancient Lakes),Riesling,White,0,1,1,0,1,0,0,0,2014
+US,95,40,California,Robert Mondavi 2014 To Kalon Vineyard Estate Grown Reserve Fum?? Blanc (Oakville),Fum?? Blanc,White,0,1,0,1,1,0,0,0,2014
+US,88,30,California,Paul Dolan 2012 Pinot Noir (Potter Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2012
+US,88,75,California,VGS Chateau Potelle 2014 Syrah (Mount Veeder),Syrah,Red,1,0,1,0,1,0,0,0,2014
+US,87,39,Washington,Three Rivers 2012 Cabernet Sauvignon (Walla Walla Valley (WA)),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2012
+US,92,18,Oregon,Iris Vineyards 2014 Pinot Gris (Oregon),Pinot Gris,White,0,1,1,0,1,0,0,0,2014
+US,90,42,California,Presqu'ile 2013 Pinot Noir (Santa Maria Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2013
+US,89,17,New York,Chateau Lafayette Reneau 2016 Pinot Noir Ros?? (Finger Lakes),Ros??,Red,1,0,0,1,1,0,0,0,2016
+US,86,22,California,Blair 2014 Rose of Pinot Noir (Arroyo Seco),Pinot Noir,Red,1,0,1,0,1,0,0,0,2014
+US,85,16,California,Vigil 1998 Marissa Vineyard Zinfandel (California),Zinfandel,Red,1,0,1,0,1,0,0,0,1998
+US,88,25,Washington,The Conqueror 2014 Red (Horse Heaven Hills),Red Blend,Red,1,0,1,0,1,0,0,0,2014
+US,91,30,Oregon,Minimus 2015 Vitae Springs Vineyard Gr?åner Veltliner (Willamette Valley),Gr?åner Veltliner,White,0,1,0,1,1,0,0,0,2015
+US,85,28,Washington,Michael Florentino 2008 Tempranillo (Columbia Valley (WA)),Tempranillo,Red,1,0,0,1,1,0,0,0,2008
+US,84,59,California,Michael David 2010 Lust Zinfandel (Lodi),Zinfandel,Red,1,0,1,0,1,0,0,0,2010
+US,89,16,Washington,Pacific Rim 2014 Spring Creek Ranch Gr?åner Veltliner (Yakima Valley),Gr?åner Veltliner,White,0,1,0,1,1,0,0,0,2014
+US,92,28,California,Fenestra 2009 Estate Syrah (Livermore Valley),Syrah,Red,1,0,1,0,1,0,0,0,2009
+US,87,20,California,IL Gioiello 2008 Barbera (Amador County),Barbera,Red,1,0,0,1,1,0,0,0,2008
+US,93,46,California,Aequorea 2013 Riven Rock Vineyard Pinot Noir (San Luis Obispo County),Pinot Noir,Red,1,0,1,0,1,0,0,0,2013
+US,88,50,California,Weather 2012 Reserve Pinot Noir (Russian River Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2012
+US,91,38,Oregon,The Eyrie Vineyards 2013 Pinot Noir (Willamette Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2013
+US,90,36,California,Jack Creek 2013 Kruse Vineyard Chardonnay (Central Coast),Chardonnay,White,0,1,1,0,1,0,0,0,2013
+US,86,13,Washington,Magnificent Wine Company 2007 House Wine Red (Columbia Valley (WA)),Red Blend,Red,1,0,1,0,1,0,0,0,2007
+US,84,10,Washington,Perimeter 2014 Riesling (Washington),Riesling,White,0,1,1,0,1,0,0,0,2014
+US,90,18,New York,Sheldrake Point 2015 Dry Ros?? (Finger Lakes),Ros??,Red,1,0,0,1,1,0,0,0,2015
+US,91,21,California,Carol Shelton 2013 Monga Zin Lopez Vineyard Old Vine Zinfandel (Cucamonga Valley),Zinfandel,Red,1,0,1,0,1,0,0,0,2013
+US,87,21,California,Kendric 2014 Reward Ranch Sangiovese (Shenandoah Valley (CA)),Sangiovese,Red,1,0,0,1,1,0,0,0,2014
+US,87,30,Washington,Apex 2010 Cabernet Sauvignon (Columbia Valley (WA)),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2010
+US,98,135,Washington,Quilceda Creek 2009 Cabernet Sauvignon (Columbia Valley (WA)),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2009
+US,91,45,California,Landmark 2014 Hilliard Bruce Vineyard Chardonnay (Sta. Rita Hills),Chardonnay,White,0,1,1,0,1,0,0,0,2014
+US,90,36,California,Municipal Winemakers 2015 Pinot Noir (Sta. Rita Hills),Pinot Noir,Red,1,0,1,0,1,0,0,0,2015
+US,88,18,Oregon,Valley View 2012 Anna Maria Viognier (Rogue Valley),Viognier,White,0,1,0,1,1,0,0,0,2012
+US,85,25,Virginia,Horton 2016 Private Reserve Albari?_o (Virginia),Albari?_o,White,0,1,0,1,1,0,0,0,2016
+US,88,25,Washington,Wind Rose 2012 Stone Tree Vineyard Primitivo (Wahluke Slope),Primitivo,Red,1,0,0,1,1,0,0,0,2012
+US,91,16,California,Irony 2014 Small Lot Reserve Cabernet Sauvignon (North Coast),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2014
+US,92,55,Washington,Saviah 2012 The Stones Speak Syrah (Walla Walla Valley (WA)),Syrah,Red,1,0,1,0,1,0,0,0,2012
+US,87,52,California,Keller Estate 2013 El Coro Pinot Noir (Sonoma Coast),Pinot Noir,Red,1,0,1,0,1,0,0,0,2013
+US,90,100,Washington,Boudreaux Cellars 2008 Champoux & Loess Vineyards Reserve Cabernet Sauvignon (Washington),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2008
+US,91,22,California,Presqu'ile 2014 Sauvignon Blanc (Santa Maria Valley),Sauvignon Blanc,White,0,1,1,0,1,0,0,0,2014
+US,93,45,Oregon,Cowhorn 2013 21 Grenache (Applegate Valley),Grenache,Red,1,0,0,1,1,0,0,0,2013
+US,91,35,Washington,K Vintners 2012 The Deal Sundance Syrah (Wahluke Slope),Syrah,Red,1,0,1,0,1,0,0,0,2012
+US,91,48,Washington,JM Cellars 2013 Boushey Vineyard Syrah (Yakima Valley),Syrah,Red,1,0,1,0,1,0,0,0,2013
+US,87,58,Washington,Bergevin Lane 2008 Barrel Select Syrah (Columbia Valley (WA)),Syrah,Red,1,0,1,0,1,0,0,0,2008
+US,81,18,California,Page Mill Winery 2013 Sauvignon Blanc (Livermore Valley),Sauvignon Blanc,White,0,1,1,0,1,0,0,0,2013
+US,87,24,California,Steven Kent 2013 Lola Sauvignon Blanc (Livermore Valley),Sauvignon Blanc,White,0,1,1,0,1,0,0,0,2013
+US,90,60,California,Spoto 2015 Viognier (Napa Valley),Viognier,White,0,1,0,1,1,0,0,0,2015
+US,91,24,California,Los Portales 2013 Monastrell (Shenandoah Valley (CA)),Monastrell,Red,1,0,0,1,1,0,0,0,2013
+US,94,60,Oregon,Angela Estate 2012 Abbott Claim Pinot Noir,Pinot Noir,Red,1,0,1,0,1,0,0,0,2012
+US,93,44,California,Foundry 2013 Sangiacomo Road Vineyard Blanc de Blancs Sparkling (Sonoma Coast),Sparkling Blend,White,0,1,0,1,1,0,0,0,2013
+US,86,21,Oregon,Treos 2012 Stolen Kisses White (Willamette Valley),White Blend,White,0,1,1,0,1,0,0,0,2012
+US,94,75,Oregon,Ponzi 2013 Vigneto Pinot Noir (Willamette Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2013
+US,91,30,California,Kit?_ 2012 Camp 4 Vineyard Syrah (Santa Ynez Valley),Syrah,Red,1,0,1,0,1,0,0,0,2012
+US,93,65,California,La Crema 2014 Pinot Noir (Green Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2014
+US,90,12,Washington,Canoe Ridge 1999 Oak Ridge Vineyard Gew?årztraminer (Washington),Gew?årztraminer,White,0,1,0,1,1,0,0,0,1999
+US,90,42,California,Anglim 2010 Fiddlestix Vineyard Pinot Noir (Sta. Rita Hills),Pinot Noir,Red,1,0,1,0,1,0,0,0,2010
+US,85,13,Oregon,Abiqua Wind 2011 Collier's Early Muscat (Willamette Valley),Muscat,White,0,1,0,1,1,0,0,0,2011
+US,90,14,Washington,Upland Estates 2006 Gew?årztraminer (Yakima Valley),Gew?årztraminer,White,0,1,0,1,1,0,0,0,2006
+US,85,60,California,Bouchaine 2013 Bacchus Collection Terraces Estate Pinot Noir (Carneros),Pinot Noir,Red,1,0,1,0,1,0,0,0,2013
+US,91,25,California,Epiphany 2014 Camp Four Vineyard Grenache Blanc (Santa Barbara County),Grenache Blanc,White,0,1,0,1,1,0,0,0,2014
+US,91,58,California,Fess Parker 2014 Clone 2A Pinot Noir (Santa Maria Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2014
+US,88,22,California,Ousterhout 2013 Redwood Ranch Sauvignon Blanc (Alexander Valley),Sauvignon Blanc,White,0,1,1,0,1,0,0,0,2013
+US,92,42,California,Goat Bubbles 2014 Solomon Hills Vineyard Ros?? (Santa Maria Valley),Ros??,Red,1,0,0,1,1,0,0,0,2014
+US,93,50,Washington,Force Majeure 2009 Collaboration Series VI Ciel du Cheval Vineyard Red (Red Mountain),Rh??ne-style Red Blend,Red,1,0,0,1,1,0,0,0,2009
+US,87,40,Washington,Ross Andrew 2010 Boushey Vineyard Syrah (Columbia Valley (WA)),Syrah,Red,1,0,1,0,1,0,0,0,2010
+US,91,70,California,Apsara 2013 Kenefick Ranch Cabernet Sauvignon (Napa Valley),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2013
+US,88,38,California,Rocky Hill 2010 Richard Dinner Vineyards Red (Sonoma Mountain),Red Blend,Red,1,0,1,0,1,0,0,0,2010
+US,88,35,California,Alta Colina 2013 Claudia Cuvee Marsanne (Adelaida District),Marsanne,White,0,1,0,1,1,0,0,0,2013
+US,86,21,Oregon,Abacela 2009 Tempranillo (Southern Oregon),Tempranillo,Red,1,0,0,1,1,0,0,0,2009
+US,94,75,California,Daou 2014 Micho Red (Adelaida District),Bordeaux-style Red Blend,Red,1,0,0,1,1,0,0,0,2014
+US,90,18,Washington,G?ùrd 2007 Lawrence Vineyards Dry Riesling (Columbia Valley (WA)),Riesling,White,0,1,1,0,1,0,0,0,2007
+US,88,25,Virginia,Early Mountain 2016 Five Forks White (Virginia),White Blend,White,0,1,1,0,1,0,0,0,2016
+US,91,41,Washington,Northstar 2005 Merlot (Columbia Valley (WA)),Merlot,Red,1,0,0,1,1,0,0,0,2005
+US,82,24,California,Maison Basque 1997 Black Zinfandel Zinfandel (California),Zinfandel,Red,1,0,1,0,1,0,0,0,1997
+US,91,44,California,Schramsberg 2013 Brut Ros?? Sparkling (North Coast),Sparkling Blend,White,0,1,0,1,1,0,0,0,2013
+US,93,100,California,Cielo 2012 Malibu Rouge Red (Saddle Rock-Malibu),Red Blend,Red,1,0,1,0,1,0,0,0,2012
+US,89,45,Oregon,Torii Mor 2014 Dundee Hills Select Pinot Noir (Dundee Hills),Pinot Noir,Red,1,0,1,0,1,0,0,0,2014
+US,90,58,California,Testarossa 2012 Tondre Grapefield Pinot Noir (Santa Lucia Highlands),Pinot Noir,Red,1,0,1,0,1,0,0,0,2012
+US,84,25,California,Martin Ray 2014 Cabernet Sauvignon (Sonoma County),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2014
+US,89,30,Oregon,Amalie Robert 2014 Pinot Meunier (Willamette Valley),Pinot Meunier,Red,1,0,0,1,1,0,0,0,2014
+US,94,45,California,Bien Nacido 2015 Chardonnay (Santa Maria Valley),Chardonnay,White,0,1,1,0,1,0,0,0,2015
+US,86,30,California,Paul Dolan 2010 Pinot Noir (Potter Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2010
+US,91,30,Washington,Chateau Ste. Michelle 2012 Cold Creek Vineyard Cabernet Sauvignon (Columbia Valley (WA)),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2012
+US,89,35,California,J. Lohr 2012 Hilltop Cabernet Sauvignon (Paso Robles),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2012
+US,90,48,Oregon,Brooks 2014 La Chenaie Pinot Noir (Eola-Amity Hills),Pinot Noir,Red,1,0,1,0,1,0,0,0,2014
+US,94,56,California,Red Stitch 2014 Sierra Mar Vineyard Pinot Noir (Santa Lucia Highlands),Pinot Noir,Red,1,0,1,0,1,0,0,0,2014
+US,89,30,Oregon,Nuthatch Cellars 2008 Hogback Ridge Vineyard Malbec (Columbia Valley (OR)),Malbec,Red,1,0,0,1,1,0,0,0,2008
+US,93,65,California,Testarossa 2015 Soberanes Vineyard Pinot Noir (Santa Lucia Highlands),Pinot Noir,Red,1,0,1,0,1,0,0,0,2015
+US,93,45,California,Sol Rouge 2013 Petite Sirah (Red Hills Lake County),Petite Sirah,Red,1,0,0,1,1,0,0,0,2013
+US,89,29,Oregon,Chehalem 2011 Three Vineyard Pinot Noir (Willamette Valley),Pinot Noir,Red,1,0,1,0,1,0,0,0,2011
+US,91,50,California,Kit?_ 2013 Kalas Red (Santa Ynez Valley),Bordeaux-style Red Blend,Red,1,0,0,1,1,0,0,0,2013
+US,86,14,New York,Lucas Vineyards 2009 Dry Riesling (Finger Lakes),Riesling,White,0,1,1,0,1,0,0,0,2009
+US,87,18,California,Di Arie 2014 Estate Grown & Bottled Sauvignon Blanc (El Dorado),Sauvignon Blanc,White,0,1,1,0,1,0,0,0,2014
+US,86,45,California,Karah Estate 2015 Reserve Pinot Noir (Sonoma Coast),Pinot Noir,Red,1,0,1,0,1,0,0,0,2015
+US,90,18,Oregon,Cuneo 2000 Two Rivers Red (Oregon),Bordeaux-style Red Blend,Red,1,0,0,1,1,0,0,0,2000
+US,83,23,California,Pech Merle 2014 Zinfandel (Dry Creek Valley),Zinfandel,Red,1,0,1,0,1,0,0,0,2014
+US,91,25,California,Pennyroyal Farm 2015 Ros?? (Anderson Valley),Ros??,Red,1,0,0,1,1,0,0,0,2015
+US,91,23,California,Dutton Estate 2013 Cohen Vineyard Dutton Ranch Sauvignon Blanc (Russian River Valley),Sauvignon Blanc,White,0,1,1,0,1,0,0,0,2013
+US,86,30,Washington,Tre Nova 2010 Ripasso Red (Columbia Valley (WA)),Red Blend,Red,1,0,1,0,1,0,0,0,2010
+US,88,40,California,Foley 2012 Pinot Noir (Sta. Rita Hills),Pinot Noir,Red,1,0,1,0,1,0,0,0,2012
+US,91,45,California,Hunnicutt 2012 Zinfandel (Napa Valley),Zinfandel,Red,1,0,1,0,1,0,0,0,2012
+US,93,95,California,Padis 2010 Cabernet Sauvignon (Napa Valley),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2010
+US,87,45,Virginia,Horton 1997 Vintage Port (Virginia),Port,Red,1,0,0,1,1,0,0,0,1997
+US,91,55,California,Midsummer Cellars 2012 Katz Family Vineyard Cabernet Sauvignon (St. Helena),Cabernet Sauvignon,Red,1,0,1,0,1,0,0,0,2012
+US,90,18,California,Saracina 2014 Chardonnay (Mendocino County),Chardonnay,White,0,1,1,0,1,0,0,0,2014
